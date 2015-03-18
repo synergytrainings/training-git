@@ -1,2 +1,2 @@
 # training-git
-Repository for Git practical trainig
+Repository for Git practical training
